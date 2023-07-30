@@ -2,7 +2,7 @@
 
 Hi all,
 
-this project can help providde Virtual network, OS Disk, Public IP address, Virtual machine.
+this project can help to provide Virtual network, OS Disk, Public IP address, Virtual machine in Azure.
 
 Use next commands:
 
